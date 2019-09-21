@@ -1,2 +1,2 @@
-# Libra-IoT-ESP32-GetBalance
-Get Libra balance from testnet on kulap libra wallet POC service
+# Libra-IoT-ESP32-Get-Balance
+Get Libra balance from testnet on Kulap libra wallet POC service
